@@ -1,0 +1,22 @@
+   School_ID             Short_Name  Is_High_School    Zip  Student_Count_Total  College_Enrollment_Rate_School Lowest_Grade Highest_Grade School_Start_Hour
+0     609952                 GREENE           False  60609                  415                       58.084302           PK             5                 8
+1     609869               LANGFORD           False  60636                  241                       58.084302           PK             8                 8
+2     609896               DRUMMOND           False  60622                  346                       58.084302           PK             8                 8
+3     610590  BRONZEVILLE CLASSICAL           False  60609                   91                       58.084302            K             2                 7
+4     610087                  BLAIR           False  60638                  248                       58.084302           PK             2                 7
+5     610503    FRAZIER PROSPECTIVE           False  60624                  198                       58.084302            K             8                 7
+6     400164  INSTITUTO - LOZANO HS            True  60608                   78                       21.900000            9            12                 8
+7     610059                  MAYER           False  60614                  760                       58.084302           PK             8                 8
+8     610206                  TWAIN           False  60638                 1094                       58.084302           PK             8                 8
+9     609872                  PEREZ           False  60608                  318                       58.084302           PK             8                 8
+
+College Enrollment Rate for High Schools = 58.08 (sd= 25.07) 
+
+Total Student Count for non-High Schools = 521.55 (sd= 268.64) 
+
+Distribution of Starting Hours:
+  8am: 415
+  7am: 193
+  9am: 40
+
+Number of schools outside Loop: 634
