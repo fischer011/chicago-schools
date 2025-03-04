@@ -39,7 +39,6 @@ def main():
     # which will populate respective columns being created.
     lowest_grade = []
     highest_grade = []
-    """Nathan,I initially had this as 2 separate loops. Which is better?"""
     for row in grades_split:
         l_grade = row[0]
         h_grade = row[-1]
